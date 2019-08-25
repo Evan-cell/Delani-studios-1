@@ -120,14 +120,27 @@ div .h {
   font-size: 50*;
   font-family: 'Livvic', sans-serif;
 }
+
 form {
   display: row;
 }
 
 input[type=text] {
-  width: 100%;
+  width: 50%;
+  padding: 45%;
+  margin: 35%;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+div .z {
+  align-self: center;
+}
+input[type=text] {
+  width: 50%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0);
+  display: row;
 }
