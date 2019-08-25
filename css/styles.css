@@ -31,4 +31,8 @@ div.b {
   font-family: 'Livvic', sans-serif;
   font-weight: bold;
 }
- 
+
+div .c {
+  font-size: 79%;
+  font-family: 'Livvic', sans-serif;
+}
