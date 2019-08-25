@@ -17,3 +17,10 @@
 .centered p {
   font-size: 22%;
 }
+
+div.a {
+  text-align: center;
+  font-size: 100%;
+  font-weight: bold;
+  font-family: 'Livvic', sans-serif;
+}
