@@ -100,3 +100,10 @@ div .g {
   font-weight: bold;
   font-size: 40%;
 }
+div .h {
+  font-family: 'Livvic', sans-serif;
+  font-weight: bold;
+  font-size: 90%;
+  color: black;
+  align: center;
+}
