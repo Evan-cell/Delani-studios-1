@@ -10,13 +10,10 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 95%;
+  font-size: 80%;
   font-family: 'Livvic', sans-serif;
 }
 
 .centered p {
   font-size: 22%;
 }
-
-.h2 {
-  font-family: 'Livvic', sans-serif;
