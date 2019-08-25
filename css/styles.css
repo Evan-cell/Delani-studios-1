@@ -107,3 +107,27 @@ div .h {
   color: black;
   align: center;
 }
+
+.transparent-input {
+    background-color: rgba(0, 0, 0, 0);
+    border:none;
+}
+.top-left {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50*;
+  font-family: 'Livvic', sans-serif;
+}
+form {
+  display: row;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0);
+}
