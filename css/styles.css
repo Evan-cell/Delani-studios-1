@@ -24,3 +24,10 @@ div.a {
   font-weight: bold;
   font-family: 'Livvic', sans-serif;
 }
+
+div.b {
+  text-align: center;
+  font-size: 60%;
+  font-family: 'Livvic', sans-serif;
+  font-weight: bold;
+}
