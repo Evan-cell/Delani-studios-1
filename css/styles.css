@@ -60,7 +60,6 @@ div .d {
   transform-style: preserve-3d;
   font-size: 70%;
 }
-
 .flip-box:hover .flip-box-inner {
   transform: rotateY(180deg);
 }
@@ -82,6 +81,8 @@ div .d {
   color: black;
   transform: rotateY(180deg);
 }
+
+
 
 div .e {
   font-family: 'Livvic', sans-serif;
@@ -143,4 +144,30 @@ input[type=text] {
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0);
   display: row;
+}
+
+.good {
+  align-content: center;
+  color: black;
+  font-size: 60%;
+}
+
+.from {
+  align-content: center;
+  background: url('../images/cam.jpg');
+  padding-right: : 20%;
+  background-color: rgba(0, 0, 0, 0);
+
+
+}
+
+.h4 {
+  text-decoration-color: black;
+  color: black;
+  text-size: 40%;
+
+}
+
+.reed {
+  font-size: 30%;
 }

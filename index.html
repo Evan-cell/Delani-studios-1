@@ -4,6 +4,9 @@
 <head>
   <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
   <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous">
+  </script>
+  <script src="js/scipts.js"></script>
   <title>Delanistudios</title>
 </head>
 
@@ -207,30 +210,31 @@
                 </div>
 
               </div>
-            </div>
-            <div class="container">
-          <img src="images/cam.jpg" alt="Snow" style="width:90%;">
-              <div class="top-left">
-                   <h>CONTACT US</h>
-                    <form>
-             <div class="form-row"
-             <div class="col">
-               <input type="text" id="inputEmail" placeholder="Name">
-             </div>
-             <div class="col">
-               <input type="text" id="inputEmail" placeholder="Name">
-             </div>
-             <div class="row">
-               <input type="text" id="inputtext" placeholder="your comments here">
-             </div>
+              <br></br>
+              <div class="from"
+              <h>CONTACT US</h>
+          <forms>
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputEmail4">Name</label>
+        <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">Email</label>
+        <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="inputAddress"></label>
+      <input type="text" class="form-control" id="inputAddress" placeholder="your message here" box-size="height:100vw; width:"100vw";>
+    </div>
 
-                      </div>
-                    </form>
-                  </div>
-                </div>
+    <button type="submit" class="btn btn-primary">Sign in</button>
+  </form>
+</div>
 
 
-                 <div class="z">
+            <div class="good">4
               <img src="images/twitter.png" alt="Paris" align="middle" style="width:3%;height:3%;">
               <img src="images/dribble.png" alt="Paris" align="middle" style="width:3%;height:3%;">
               <img src="images/facebook.png" alt="Paris" align="middle" style="width:3%;height:3%;">
@@ -241,13 +245,53 @@
               <img src="images/pint.png" alt="Paris" align="middle" style="width:3%;height:3%;">
               <img src="images/fff.png" alt="Paris" align="middle" style="width:3%;height:3%;">
 
+                       <h4>DELANI STUDIOS<br>
+                          2019</h4>
 
 
             </div>
 
 
-                <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-                <script src="js/scripts.js"></script>
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  backface-visibility: hidden;
+}
+
+.flip-box-front {
+  background-color: white;
+  color: black;
+}
+
+.flip-box-back {
+  background-color: white;
+  color: black;
+  transform: rotateY(180deg);
+}
