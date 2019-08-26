@@ -42,6 +42,7 @@ div .d {
   font-weight: bold;
   font-size: 35%;
 }
+
 .flip-box {
   background-color: transparent;
   width: 300px;
@@ -60,6 +61,7 @@ div .d {
   transform-style: preserve-3d;
   font-size: 70%;
 }
+
 .flip-box:hover .flip-box-inner {
   transform: rotateY(180deg);
 }
@@ -82,8 +84,6 @@ div .d {
   transform: rotateY(180deg);
 }
 
-
-
 div .e {
   font-family: 'Livvic', sans-serif;
   font-weight: bold;
@@ -101,6 +101,7 @@ div .g {
   font-weight: bold;
   font-size: 40%;
 }
+
 div .h {
   font-family: 'Livvic', sans-serif;
   font-weight: bold;
@@ -110,9 +111,10 @@ div .h {
 }
 
 .transparent-input {
-    background-color: rgba(0, 0, 0, 0);
-    border:none;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
 }
+
 .top-left {
   position: absolute;
   top: 50%;
@@ -137,6 +139,7 @@ input[type=text] {
 div .z {
   align-self: center;
 }
+
 input[type=text] {
   width: 50%;
   padding: 12px 20px;
@@ -157,15 +160,12 @@ input[type=text] {
   background: url('../images/cam.jpg');
   padding-right: : 20%;
   background-color: rgba(0, 0, 0, 0);
-
-
 }
 
 .h4 {
   text-decoration-color: black;
   color: black;
   text-size: 40%;
-
 }
 
 .reed {
