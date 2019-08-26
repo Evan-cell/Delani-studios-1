@@ -2,7 +2,7 @@
 #### Application used to display Delani studio project, v10
 #### By Collins Luchele
 ## Webpage used to display Delani studio project
- this webpage explains how Delani studios does their work by creating many helpful project. It displays different project using images how they are created having a small description other developers to have. }
+ this webpage explains how Delani studios does their work by creating many helpful project. It displays different project using images how they are created having a small description other developers to have. 
 ## Installation requrements
 * This is a great place
 * open the web browser and search for Delani studios you can downlaod the webpage from there.
