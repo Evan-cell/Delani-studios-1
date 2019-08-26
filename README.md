@@ -21,7 +21,7 @@ If there are any issues that re not working correctly plese let me know.
 
 ## Support and contact details
 Incase of any questions about my webpage contact me on 0768904020 or find me
-on luchcollins@gmail.com.Please dont fear to reach me im available for all your ideas.feel free to contribute to my webpage
+on luchcollins@gmail.com. Please dont fear to reach me im available for all your ideas.feel free to contribute to my webpage
 ### License
 Copyright 2018 Luchele Collins
 
