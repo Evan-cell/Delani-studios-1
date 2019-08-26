@@ -6,7 +6,7 @@ $(document).ready(function(){
                      $("#second").append("<p>Hello, admin</p> <br/><input type='button' id='logout' value='Log Out' />");
                  }
              else {
-                 alert("Please try again");
+                 alert("thank you for your message");
              }
 
              $("#logout").click(function() {
