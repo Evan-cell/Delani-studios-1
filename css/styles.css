@@ -171,3 +171,8 @@ input[type=text] {
 .reed {
   font-size: 30%;
 }
+
+form
+background: transparent;
+colour: red;
+}
